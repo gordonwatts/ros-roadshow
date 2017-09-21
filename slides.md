@@ -5,9 +5,7 @@ class: center, middle
 
 # Reproducibility and Open Science
 
-# XXX Replace link below!
-
-<small>Follow along at: <a href="https://uwescience.github.io/ros-roadshow">https://uwescience.github.io/ros-roadshow</small>
+<small>Follow along at: <a href="https://gordonwatts.github.io/ros-roadshow">https://gordonwatts.github.io/ros-roadshow</small>
 
 ---
 
@@ -33,50 +31,6 @@ layout: true
 
 <div style="position: absolute; left: 650px; top: 370px;">
 <image src="images/escience-network.png" width=500px style="opacity:0.2;filter:alpha(opacity=20);"> </div>
-
----
-
-# What does Reproducible Research mean?
-
-### .blue[Ability to determine exactly how scientific results were obtained.]
-
- - Basis of scientific method.
-
- - Required for confidently building on past results.
-
- - Critical for accountability in engineering analysis / decision making.
-
----
-
-template: meaning1
-
-### .red[Standards and best practices in computational/data science are not yet well codified.]
-
- - Experimental science: Lab notebooks, methodology section of publications, etc.
-
- - Mathematics: Proofs are required in publications.
-
----
-
-name: crotty1
-
-Quote from .blue[Reproducible Research: A Cautionary Tale]
-
-By David Crotty, March 26, 2014 on the [scholarly kitchen blog](https://scholarlykitchen.sspnet.org/2014/03/26/reproducible-research-a-cautionary-tale/)
-
-
-.red["If your experiment consists of running numerical data through an algorithm,
-then releasing your data and your code allows others to quickly verify that
-you’ve done what you’ve said you’ve done.]
-But when it comes to other types of research,
-wet bench experiments or observational
-work for example, reproduction is not quite so simple."
-
----
-
-template: crotty1
-
-#### .red[If only it were so easy in computational/data science!]
 
 ---
 
