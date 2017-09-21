@@ -332,7 +332,7 @@ http://dx.doi.org/10.1371/journal.pcbi.1003542
 
 ### [Ten Simple Rules for the Care and Feeding of Scientific Data](http://dx.doi.org/10.1371/journal.pcbi.1003542)
 
- - Rule 2.  Share Your Data Online, with a Permanent Identifier
+ - Rule 2.  Share Your Data Online, with a Permanent Identifier (e.g. DOI)
 
  - Rule 4. Publish Workflow as Context
 
