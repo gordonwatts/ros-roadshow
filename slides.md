@@ -511,6 +511,12 @@ waves (The Github repository is [here](https://github.com/cranmer/ligo-binder)).
 
 ---
 
+# What if you don't like notebooks?
+
+I'll address more complex workflows later
+
+---
+
 ## Making your publications available
 
 ### .red[Publish in open access journals]
@@ -531,14 +537,6 @@ Provides access to your work
 --
 
 Establishes precedence
-
----
-
-## When should I preprint?
-
-https://nikokriegeskorte.org/2016/03/13/the-selfish-scientists-guide-to-preprint-posting/
-
-<img src="images/preprint-benefits-afo-posting-time.png" width=350>
 
 ---
 
@@ -612,5 +610,3 @@ https://medium.com/@lorenaabarba/barba-group-reproducibility-syllabus-e3757ee635
  -  [Software Carpentry](http://software-carpentry.org/)
 
  -  [Code Academy](https://www.codecademy.com/)
-
----
