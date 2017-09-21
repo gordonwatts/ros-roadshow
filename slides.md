@@ -304,9 +304,9 @@ https://www.software.ac.uk/which-journals-should-i-publish-my-software
 
 https://github.com/uwescience/citing_software
 
-We did something like this at the recent [Advanced Computing and Analysis Techniques in Physics Research][https://indico.cern.ch/event/567550/] conference.
+We did something like this at the recent [Advanced Computing and Analysis Techniques in Physics Research](https://indico.cern.ch/event/567550/) conference.
 
-Daniel Katz's [talk][https://indico.cern.ch/event/567550/contributions/2696191/] contians further examples.
+Daniel Katz's [talk](https://indico.cern.ch/event/567550/contributions/2696191/) contians further examples.
 
 All submissions for the ACAT proceedings will be asked to cite the software directly using these guidelines.
 
