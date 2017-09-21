@@ -283,11 +283,7 @@ http://www.astrobetter.com/blog/2014/03/10/the-whys-and-hows-of-licensing-scient
 
 To proceed in the academic career ladder, we need signals that our work is meaningful and useful
 
---
-
 Especially pertinent if some aspects of your software work are not captured by traditional peer-reviewed publications
-
---
 
 .red[**Software papers**] give you a line in your CV, and allow others to cite their dependence on your software (independently from their inspiration by your findings).
 
@@ -308,6 +304,11 @@ https://www.software.ac.uk/which-journals-should-i-publish-my-software
 
 https://github.com/uwescience/citing_software
 
+We did something like this at the recent [Advanced Computing and Analysis Techniques in Physics Research][https://indico.cern.ch/event/567550/] conference.
+
+Daniel Katz's [talk][https://indico.cern.ch/event/567550/contributions/2696191/] contians further examples.
+
+All submissions for the ACAT proceedings will be asked to cite the software directly using these guidelines.
 
 ---
 
