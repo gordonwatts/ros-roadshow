@@ -230,6 +230,15 @@ software
 
 [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration)
 
+--
+
+Why not design your analysis to run in this envrionment as well?
+
+  - No hand art
+  - Parameters and configurations tracked
+  - Results tracked as artifacts and log files
+  - Results computer accessible
+
 ---
 
 ### .blue[Making your software available]
