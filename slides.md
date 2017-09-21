@@ -234,10 +234,7 @@ software
 
 Why not design your analysis to run in this envrionment as well?
 
-  - No hand art
-  - Parameters and configurations tracked
-  - Results tracked as artifacts and log files
-  - Results computer accessible
+
 
 ---
 
